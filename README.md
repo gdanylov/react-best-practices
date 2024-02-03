@@ -1,3 +1,7 @@
+# Learning React Best Practices
+
+Making an app using compound components, render props and debouncing
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
